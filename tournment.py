@@ -70,6 +70,7 @@ class myTournment:
 
 
 t = myTournment()
+print("Generating")
 t.getTeams()
 t.getNames()
 t.getGames()
